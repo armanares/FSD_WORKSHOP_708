@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/armanares/FSD_WORKSHOP_708/FSD_WORKSHOP_708",
+      "program": "/Users/armanares/FSD_WORKSHOP_708/FSD_WORKSHOP_708/build/Debug/outDebug"
+    }
+  ]
+}
